@@ -18,6 +18,7 @@ Docker 部署 Pikpak 网页客户端。
 
 只修改了 list.vue 文件 ，所以就只上传它了。
 
+![预览](https://github.com/J0ins08/pikpak/blob/main/preview/截屏2022-12-27%2014.02.16.png)
 
 
 # 如不能登录 就是配置里代理失效 需要走流量登录后设置里修改为可用代理
